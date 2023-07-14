@@ -1,5 +1,5 @@
 ## This is the official data repository for the [FusariumLab](https://www.uco.es/FusariumLab/) at the [University of Córdoba](https://www.uco.es). 
-## We are interested in Genetic and cellular plasticity of fungal pathogens during host adaptation
+### We are interested in Genetic and cellular plasticity of fungal pathogens during host adaptation
 
 A hallmark of fungal pathogens is the ability to dynamically re-shape their growth and metabolism during the interaction with the host. The infection process is driven by rapid responses in cell signaling and gene expression as well as by long-term changes in genome structure. Understanding the molecular basis of this remarkable cellular and genetic plasticity is critical to control fungal disease.
 
